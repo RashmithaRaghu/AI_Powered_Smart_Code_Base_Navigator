@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+# tree-sitter
+# tree-sitter-python
+# tree-sitter-languages
+networkx
+matplotlib
